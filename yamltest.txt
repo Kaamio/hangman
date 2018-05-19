@@ -1,0 +1,3 @@
+--- !ruby/object:Yamltesti
+age: '12'
+name: pekka

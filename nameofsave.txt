@@ -1,0 +1,14 @@
+--- !ruby/object:Game
+word_so_far:
+- a
+- l
+- _
+- _
+- _
+- _
+- _
+- a
+wrong_quesses: 0
+correct_word: 'alopecia
+
+'
